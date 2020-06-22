@@ -90,7 +90,7 @@ public class Cars {
             System.out.println("Year: " + car.getYear());
             System.out.println("Color: " + car.getColor());
             System.out.println("Miles on the car: " + car.getMiles());
-
+            System.out.println(" ");
         }
 
 
